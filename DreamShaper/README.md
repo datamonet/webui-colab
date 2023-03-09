@@ -1,0 +1,2 @@
+- https://huggingface.co/Lykon/DreamShaper/blob/main/DreamShaper_3.3.safetensors
+- https://civitai.com/models/4823/deliberate
