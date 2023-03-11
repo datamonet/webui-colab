@@ -1,0 +1,2 @@
+- https://huggingface.co/swl-models/chilloutmix/resolve/main/Chilloutmix.safetensors
+- https://civitai.com/models/6424/chilloutmix

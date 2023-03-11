@@ -11,5 +11,6 @@ Pre-configured WebUI Colab notebooks based on [camenduru/stable-diffusion-webui-
 - https://huggingface.co/prompthero/openjourney/resolve/main/mdjrny-v4.safetensors
 - https://huggingface.co/prompthero/openjourney-v2/resolve/main/openjourney-v2.ckpt
 - https://huggingface.co/datamonet/sd/resolve/main/dalcefoPainting_3rd.safetensors
+- https://huggingface.co/swl-models/chilloutmix/resolve/main/Chilloutmix.safetensors
 
 ## Lora Models
