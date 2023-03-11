@@ -1,0 +1,2 @@
+- https://huggingface.co/SG161222/Realistic_Vision_V1.3_Fantasy.ai
+- https://civitai.com/models/4201/realistic-vision-v13-fantasyai
