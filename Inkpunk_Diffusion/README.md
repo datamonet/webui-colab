@@ -1,0 +1,1 @@
+https://civitai.com/models/1087/inkpunk-diffusion
