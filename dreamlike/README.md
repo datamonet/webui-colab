@@ -1,0 +1,3 @@
+- https://huggingface.co/datamonet/dreamlike/resolve/main/dreamlike-diffusion-1.0.safetensors
+- https://civitai.com/models/1274/dreamlike-diffusion-10
+- https://civitai.com/models/3811/dreamlike-photoreal-20

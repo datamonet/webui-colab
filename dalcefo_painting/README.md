@@ -1,2 +1,1 @@
-- https://huggingface.co/datamonet/sd/resolve/main/dalcefoPainting_3rd.safetensors
-- https://civitai.com/models/5396/dalcefopainting
+https://civitai.com/models/5396/dalcefopainting

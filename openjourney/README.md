@@ -1,2 +1,1 @@
-- https://huggingface.co/prompthero/openjourney-v2
-- https://civitai.com/models/4201/realistic-vision-v13-fantasyai
+https://civitai.com/models/86/openjourney

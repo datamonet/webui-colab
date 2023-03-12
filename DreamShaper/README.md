@@ -1,2 +1,1 @@
-- https://huggingface.co/Lykon/DreamShaper
-- https://civitai.com/models/4384/dreamshaper
+https://civitai.com/models/4384/dreamshaper
